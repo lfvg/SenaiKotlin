@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Senai Kotlin</string>
+    <string name="search_hint">Busque por usuários</string>
 </resources>
